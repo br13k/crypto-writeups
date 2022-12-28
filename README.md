@@ -181,7 +181,7 @@ RSA, добрались. Говорят, что ответ любой множи
 
 <div align="center">
 
-  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/209868007-d7f86145-df78-4cc6-b405-e465eb5b1932.png)
+  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/209868281-42cab366-0df2-4e24-8cf3-e128d4373acb.png)
 
 </div>
 
