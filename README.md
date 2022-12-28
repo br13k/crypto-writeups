@@ -17,6 +17,7 @@
 - [PEMogite](https://github.com/br13k/writeups#-pemogite)
 - [128 is new black](https://github.com/br13k/writeups#-128-is-new-black)
 - [Bread 1](https://github.com/br13k/writeups#-bread-1)
+- [Bread 2](https://github.com/br13k/writeups#-bread-2)
 - [P*Q=ban](https://github.com/br13k/writeups#-pqban)
 - [Recursion](https://github.com/br13k/writeups#-recursion)
 
@@ -173,6 +174,20 @@ RSA, добрались. Говорят, что ответ любой множи
 </div>
 
 Это бАзА. https://www.dcode.fr/rsa-cipher, вставляем n, d, c и получаем **флаг**: `spbctf{lost_in_ddddd}`
+
+[Menu](https://github.com/br13k/writeups#-menu)
+
+## 📌 Bread 2
+
+<div align="center">
+
+  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/209868007-d7f86145-df78-4cc6-b405-e465eb5b1932.png)
+
+</div>
+
+Это ТоЖе бАзА. https://www.dcode.fr/rsa-cipher, вставляем p, q, e и получаем **d(флаг)**: 
+
+`5044471531854156477396253824630303590401801172114932316241382978122506989280293147165176138466598226423475307682670395281264733740338085134527094628421901`
 
 [Menu](https://github.com/br13k/writeups#-menu)
 
