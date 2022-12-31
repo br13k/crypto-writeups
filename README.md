@@ -22,6 +22,7 @@
 - [Recursion](https://github.com/br13k/writeups#-recursion)
 - [Tooled Rsa](https://github.com/br13k/writeups#-tooled-rsa)
 - [Read Sleep Attack](https://github.com/br13k/writeups#-read-sleep-attack)
+- [Ciph Workout](https://github.com/br13k/writeups#-ciph-workout)
 
 ## 📌 CP
 
@@ -291,6 +292,18 @@ python3 RsaCtfTool.py -e 65537 -n 5619855656960526204660918561496868937744195656
 ```
 
 Флаг: `spbctf{to0l_1s_g00d_bu7_y0u_4r3_b3tteR}`
+
+[Menu](https://github.com/br13k/writeups#-menu)
+
+## 📌 Ciph Workout
+
+<div align="center">
+
+  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/210136725-242f7cba-01c3-4452-b5ca-ce16fad7d149.png)
+
+</div>
+
+Задача на знание кодировок rot13, vigenere, xor, substitution. При помощи https://www.dcode.fr/cipher-identifier выбираем правильные и получаем **флаг**: `spbctf{i_w4nt_a_ce4sar_s4lad_n0w}`
 
 [Menu](https://github.com/br13k/writeups#-menu)
 
