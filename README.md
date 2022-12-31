@@ -274,7 +274,7 @@ RSA, добрались. Говорят, что ответ любой множи
 
 <div align="center">
 
-  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/210134090-88797707-5ba5-4176-94fb-3ececb183c0c.png)
+  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/210134140-f9ce9abc-54fb-4eca-9e9e-d4b65e56a78c.png)
 
 </div>
 
