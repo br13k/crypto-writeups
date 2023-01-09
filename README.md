@@ -23,6 +23,7 @@
 - [Tooled Rsa](https://github.com/br13k/writeups#-tooled-rsa)
 - [Read Sleep Attack](https://github.com/br13k/writeups#-read-sleep-attack)
 - [Ciph Workout](https://github.com/br13k/writeups#-ciph-workout)
+- [Unknown](https://github.com/br13k/writeups#-unknown)
 
 ## 📌 CP
 
@@ -304,6 +305,20 @@ python3 RsaCtfTool.py -e 65537 -n 5619855656960526204660918561496868937744195656
 </div>
 
 Задача на знание кодировок rot13, vigenere, xor, substitution. При помощи https://www.dcode.fr/cipher-identifier выбираем правильные и получаем **флаг**: `spbctf{i_w4nt_a_ce4sar_s4lad_n0w}`
+
+[Menu](https://github.com/br13k/writeups#-menu)
+
+## 📌 Unknown
+
+<div align="center">
+
+  ​​​​​​</br>![image](https://user-images.githubusercontent.com/121574230/211373148-29142cb4-1ae7-46ed-8a5e-ced2ec95af9b.png)
+
+</div>
+
+Переходим по ссылке и видим, что это base85. Закидываем эту лабуду сюда: https://www.dcode.fr/ascii-85-encoding
+
+Флаг: `e2b16a02027cb8afb4a1304b31d8be95`
 
 [Menu](https://github.com/br13k/writeups#-menu)
 
