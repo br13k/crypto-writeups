@@ -37,7 +37,7 @@
 
 **Получаем флаг:** `Всем здарова! Представляем наш новый Флаг: три шесть шесть семь ноль два восемь`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Warmup
 
@@ -51,7 +51,7 @@
 
 `Flag is: 107d9d2175de7e82106313328ca0e291`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Basic Workout
 
@@ -63,7 +63,7 @@
 
 Задача на знание кодировок base2, base16, base32, base58, base64, base256. Тупо выбираем правильные и получаем **флаг**: `spbctf{b4s1c_flag_1s_s0_bas1c}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 *ML
 
@@ -75,7 +75,7 @@
 
 HTML Escape. Закидываем на сайт https://dencode.com и получаем **флаг**: `spbctf{*mL_eNt1t1t1t1t1t1t1t1t11t1tt1}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Caesar
 
@@ -89,7 +89,7 @@ HTML Escape. Закидываем на сайт https://dencode.com и полу�
 
 `Поздравлос! Флаг: девять восемь три один три три семь один два три!`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Fried Pig
 
@@ -103,7 +103,7 @@ HTML Escape. Закидываем на сайт https://dencode.com и полу�
 
 ![image](https://user-images.githubusercontent.com/121574230/209858816-59ef5ea0-5cf0-4e54-867a-78188cfe7847.png)
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 @bash
 
@@ -115,7 +115,7 @@ HTML Escape. Закидываем на сайт https://dencode.com и полу�
 
 Подсказка в названии таски. Идем сюда: https://dencode.com, находим Atbash и засылаем **флаг**: `SPbCTF{lol_this_is_atbash}` 
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Not easy
 
@@ -127,7 +127,7 @@ HTML Escape. Закидываем на сайт https://dencode.com и полу�
 
 Говорят, что это affine, ок, идем сюды: https://www.dcode.fr/affine-cipher, расшифровываем и получаем **флаг**: `spbctf{hello_i_am_such_affine_cipher}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Чаек
 
@@ -139,7 +139,7 @@ HTML Escape. Закидываем на сайт https://dencode.com и полу�
 
 ПеРеРыВ нА чАй
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 PEMogite
 
@@ -153,7 +153,7 @@ HTML Escape. Закидываем на сайт https://dencode.com и полу�
 
 ![image](https://user-images.githubusercontent.com/121574230/209860578-5b3f2b0d-531f-4c44-b6b0-b0035ede2517.png)
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 128 is new black
 
@@ -167,7 +167,7 @@ RSA, добрались. Говорят, что ответ любой множи
 
 ![image](https://user-images.githubusercontent.com/121574230/209861077-ce6fcf56-edfe-4aec-b58a-497154104c1e.png)
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Bread 1
 
@@ -179,7 +179,7 @@ RSA, добрались. Говорят, что ответ любой множи
 
 Это бАзА. https://www.dcode.fr/rsa-cipher, вставляем n, d, c и получаем **флаг**: `spbctf{lost_in_ddddd}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Bread 2
 
@@ -195,7 +195,7 @@ RSA, добрались. Говорят, что ответ любой множи
 5044471531854156477396253824630303590401801172114932316241382978122506989280293147165176138466598226423475307682670395281264733740338085134527094628421901
 ```
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 P*Q=ban
 
@@ -213,7 +213,7 @@ RSA, добрались. Говорят, что ответ любой множи
 
 ![image](https://user-images.githubusercontent.com/121574230/209862040-8c429f09-871d-4aa0-86e2-0b359911428d.png)
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Recursion
 
@@ -258,7 +258,7 @@ RSA, добрались. Говорят, что ответ любой множи
 
 ![image](https://user-images.githubusercontent.com/121574230/209864961-2300e817-04e4-47f0-a664-b59323dbfa0f.png)
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Tooled Rsa
 
@@ -276,7 +276,7 @@ python3 RsaCtfTool.py -n 9913580845070285954162224789750750842177453653411358279
 
 Ждем и получаем флаг: `SpbCTF_{always_use_tools}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Read Sleep Attack
 
@@ -294,7 +294,7 @@ python3 RsaCtfTool.py -e 65537 -n 5619855656960526204660918561496868937744195656
 
 Флаг: `spbctf{to0l_1s_g00d_bu7_y0u_4r3_b3tteR}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Ciph Workout
 
@@ -306,7 +306,7 @@ python3 RsaCtfTool.py -e 65537 -n 5619855656960526204660918561496868937744195656
 
 Задача на знание кодировок rot13, vigenere, xor, substitution. При помощи https://www.dcode.fr/cipher-identifier выбираем правильные и получаем **флаг**: `spbctf{i_w4nt_a_ce4sar_s4lad_n0w}`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 ## 📌 Unknown
 
@@ -320,7 +320,7 @@ python3 RsaCtfTool.py -e 65537 -n 5619855656960526204660918561496868937744195656
 
 Флаг: `e2b16a02027cb8afb4a1304b31d8be95`
 
-[Menu](https://github.com/br13k/writeups#-menu)
+[Menu](https://github.com/br13k/crypto-writeups#-menu)
 
 # 📌 ВСЁ!
 
